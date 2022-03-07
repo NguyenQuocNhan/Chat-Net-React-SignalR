@@ -5,5 +5,5 @@ mychat.frontend
 -> num start
 
 ChatService
--> visual studio -> run
+-> run
 -> https://localhost:44354/chat
